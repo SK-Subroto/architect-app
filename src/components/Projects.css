@@ -1,0 +1,35 @@
+.projects{
+    margin-top: 3%;
+    overflow: hidden;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+    /* overflow: hidden; */
+}
+
+.cover{
+    height: 400px;
+    background-image: url("https://cdn.businesstraveller.com/wp-content/uploads/fly-images/879202/Sheraton-Grand-Chennai-Resort-Spa-Resort-Water-Body-View-916x516.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    /* position: relative; */
+
+}
+
+.cover-note{
+    /* position: absolute; */
+    position: relative;
+    color: white;
+    top: 70%;
+    left: 3%;
+    /* padding-top: 25%;
+    padding-left: 2%; */
+}
+
+/* .project-div{
+    display: flex;
+} */

@@ -1,0 +1,22 @@
+/* .project{
+    border: none;
+} */
+.card{
+    border: none !important;
+    position: relative;
+    cursor: pointer;
+    /* margin: 2px;
+    padding: 0; */
+}
+
+.card img{
+    height: 200px;
+}
+
+.img-caption{
+    position: absolute;
+    color: white;
+    top: 70%;
+    left: 7%;
+}
+
